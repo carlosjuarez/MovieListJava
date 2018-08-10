@@ -14,7 +14,7 @@ public class ResourceDownloader {
                 .placeholder(R.drawable.ic_file_download_black_24dp)
                 .error(R.drawable.ic_error_outline_black_24dp)
                 .fit()
-                .centerInside()
+                .centerCrop()
                 .into(view);
     }
 }
