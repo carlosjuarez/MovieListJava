@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_values">8dp</dimen>
+    <dimen name="genre_size">20sp</dimen>
+    <dimen name="title_size">16sp</dimen>
+    <dimen name="year_size">16sp</dimen>
+    <dimen name="pading_values">4dp</dimen>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MovieListJava</string>
+    <string name="search">Search title or genre</string>
+</resources>
