@@ -1,11 +1,10 @@
-package com.juvcarl.batch.mcs.movielistjava.factory;
+package com.juvcarl.batch.mcs.movielistjava.viewmodel;
 
 import android.arch.lifecycle.ViewModel;
 import android.arch.lifecycle.ViewModelProvider;
 import android.support.annotation.NonNull;
 
 import com.juvcarl.batch.mcs.movielistjava.repository.Repository;
-import com.juvcarl.batch.mcs.movielistjava.viewmodel.MovieListViewModel;
 
 import javax.inject.Inject;
 

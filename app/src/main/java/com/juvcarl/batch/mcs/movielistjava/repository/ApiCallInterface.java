@@ -1,11 +1,9 @@
-package com.juvcarl.batch.mcs.movielistjava.interfaces;
+package com.juvcarl.batch.mcs.movielistjava.repository;
 
-import com.google.gson.JsonElement;
 import com.juvcarl.batch.mcs.movielistjava.repository.model.Data;
 import com.juvcarl.batch.mcs.movielistjava.util.Constants;
 
 import io.reactivex.Observable;
-import retrofit2.http.FormUrlEncoded;
 import retrofit2.http.GET;
 
 public interface ApiCallInterface {

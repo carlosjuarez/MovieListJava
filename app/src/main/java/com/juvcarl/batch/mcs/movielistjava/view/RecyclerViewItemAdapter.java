@@ -1,4 +1,4 @@
-package com.juvcarl.batch.mcs.movielistjava.adapter;
+package com.juvcarl.batch.mcs.movielistjava.view;
 
 import android.content.Context;
 import android.databinding.DataBindingUtil;

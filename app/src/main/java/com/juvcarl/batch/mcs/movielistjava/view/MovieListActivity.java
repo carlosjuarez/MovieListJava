@@ -3,19 +3,18 @@ package com.juvcarl.batch.mcs.movielistjava.view;
 import android.arch.lifecycle.ViewModelProviders;
 import android.content.res.Configuration;
 import android.databinding.DataBindingUtil;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.widget.SearchView;
 
 import com.juvcarl.batch.mcs.movielistjava.MovieListApplication;
 import com.juvcarl.batch.mcs.movielistjava.R;
-import com.juvcarl.batch.mcs.movielistjava.adapter.RecyclerViewItemAdapter;
 import com.juvcarl.batch.mcs.movielistjava.databinding.ActivityMovieListBinding;
-import com.juvcarl.batch.mcs.movielistjava.factory.ViewModelFactory;
 import com.juvcarl.batch.mcs.movielistjava.repository.model.Datum;
 import com.juvcarl.batch.mcs.movielistjava.viewmodel.MovieListViewModel;
+import com.juvcarl.batch.mcs.movielistjava.viewmodel.ViewModelFactory;
 
 import java.util.ArrayList;
 import java.util.List;
